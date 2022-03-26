@@ -12,11 +12,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "connect-flash": "^0.1.1",
+    "connect-mongo": "^3.1.0",
     "core-js": "^3.8.2",
     "css-loader": "^5.0.1",
+    "csurf": "^1.11.0",
     "dotenv": "^16.0.0",
     "ejs": "^3.1.5",
     "express": "^4.17.1",
+    "express-session": "^1.17.0",
+    "helmet": "^5.0.2",
     "mongoose": "^6.2.8",
     "regenerator-runtime": "^0.13.7",
     "style-loader": "^2.0.0"
